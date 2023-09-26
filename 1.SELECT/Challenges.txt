@@ -1,0 +1,9 @@
+-- 1 Use a SELECT statement to get the first_name and
+last_name of all employees.
+
+-- 2 Use a SELECT statement to get the last_name and city of
+all customers. Alias the last_name to customer_last_name in
+the query.
+
+-- 3 Use a SELECT statement to select all columns from the
+oes.order_items table

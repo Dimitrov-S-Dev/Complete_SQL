@@ -1,0 +1,20 @@
+-- 1 Write a query that returns all employees ordered
+alphabetically by their last name from A to Z.
+
+--2 Write a query that returns all employees ordered by
+salary from highest to lowest.
+
+-- 3 Write a query to return all employees ordered by most
+recently hired to the longest serving.
+
+-- 4 Write a query to return all employees ordered by
+department_id in ascending order and within each
+department_id, order by salary from highest to lowest.
+
+-- 5 Write a query to return the employee_id, first_name,
+last_name and salary for the top 10 employees who get
+paid the most.
+
+-- 6 Write a query to return the employee_id, first_name,
+last_name and salary for the employee or employees
+who get paid the least.
