@@ -1,5 +1,5 @@
 -- 1 Create a query with the following columns:
-“Name” from the Production.Product table, which can be alised as “ProductName”
+“Name” from the Production.Product table, which can be aliased as “ProductName”
 “ListPrice” from the Production.Product table
 “Name” from the Production. ProductSubcategory table, which can be alised as “ProductSubcategory”*
 “Name” from the Production.ProductCategory table, which can be alised as “ProductCategory”**
