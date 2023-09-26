@@ -1,0 +1,25 @@
+-- 1 Return all rows from both the bird.california_sightings
+table and the bird.arizona_sightings table. Use column
+names from the bird.california_sightings table.
+
+-- 2 Return all unique species - as identified by the
+scientific_name column – for species which have been
+sighted in either California or Arizona. Use column names
+from the bird.california_sightings table.
+
+-- 3 Return all unique combinations of species
+(scientific_name) and state name. The state_name will
+need to be added on as a new expression which gives
+the applicable state name. Use column names from the
+bird.california_sightings table. Order by state_name
+and then by scientific_name in ascending order.
+
+-- 4 Return all rows from all the bird sightings tables i.e.
+Arizona, California and Florida. Use column names from
+the bird.california_sightings table.
+
+-- 5 Return all unique customer ids for customers who have
+placed orders.
+
+-- 6 Return all unique product ids for products that are
+currently not in stock.
