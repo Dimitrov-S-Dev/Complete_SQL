@@ -1,4 +1,4 @@
-# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Complete_SQL_Course/blob/master/udemy_github.jpg) <p>
+# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev/Complete_SQL/blob/master/udemy_github.jpg) <p>
 # Complete SQL Course
 Intensive course on the basics of databases to one of the most widely used database management systems (DBMS) used in the development of modern information systems - Microsoft SQL Server. 
 ## Acquired skills
