@@ -1,0 +1,40 @@
+-- 1 Write a query to return employee details for all employees as
+well as the first and last name of each employee's manager.
+Include the following columns:
+- employee_id
+- first_name
+- last_name
+- manager_first_name (alias for first_name)
+- manager_last_name (alias for last_name)
+
+-- 2 Write a query to return all the products at each warehouse.
+Include the following attributes:
+- product_id
+- product_name
+- warehouse_id
+- warehouse_name
+- quantity_on_hand
+
+-- 3 Write a query to return the following attributes for all
+employees from Australia:
+- employee_id
+- first_name
+- last_name
+- department_name
+- job_title
+- state_province
+
+-- 4 Return the total quantity ordered of each product in each
+category. Do not include products which have never
+been ordered. Include the product name and category
+name in the query. Order the results by category name
+from A to Z and then within each category name order
+by product name from A to Z.
+
+-- 5 Return the total quantity ordered of each product in each
+category. Include products which have never been
+ordered and give these a total quantity ordered of 0.
+Include the product name and category name in the
+query. Order the results by category name from A to Z
+and then within each category name order by product
+name from A to Z.

@@ -1,0 +1,17 @@
+-- 1 Select employees from the hcm.employees table who live
+in either Seattle or Sydney.
+
+-- 2 Select employees who live in any of the following cities:
+- Seattle
+- Sydney
+- Ascot
+- Hillston
+
+-- 3 Select employees from Sydney who have a salary greater
+than $200,000.
+
+-- 4 Select employees who live in either Seattle or Sydney
+and were also hired on or after 1st January 2019.
+
+-- 5 Select products from the oes.products table which do
+not have a product category_id of either 1, 2, or 5.

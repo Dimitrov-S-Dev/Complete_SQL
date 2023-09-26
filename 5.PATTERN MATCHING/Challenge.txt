@@ -1,0 +1,12 @@
+-- 1 Select countries from the hcm.countries table which
+start with the letter ‘N’
+
+-- 2 Select customers from the oes.customers table who
+have a Gmail email address.
+
+-- 3 Select product names from the oes.products table
+which contain the word ‘mouse’ anywhere within the
+product name.
+
+-- 4 Select all product names from the oes.products table
+which end in a number.
